@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1010687118145",
+    "firebase_url": "https://android-av8.firebaseio.com",
+    "project_id": "android-av8",
+    "storage_bucket": "android-av8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010687118145:android:650d299842ab9687cc6fc0",
+        "android_client_info": {
+          "package_name": "com.nialls.av8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010687118145-qsj2n46e2ihe0nqa9sme6ha5meg1kf30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nialls.av8",
+            "certificate_hash": "873b9739cc70dd6616f4c2d18d66ee40a5dc3b6d"
+          }
+        },
+        {
+          "client_id": "1010687118145-e7bp11vgp6h8a4fqeammkm98h7ilimfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTJ2v0A15yI1ZtKhmLvJIAoNJT9K4OeCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010687118145-e7bp11vgp6h8a4fqeammkm98h7ilimfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
